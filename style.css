@@ -429,8 +429,8 @@ input:-webkit-autofill:focus {
     width: 100%;
     /*background: url('images/header-bg.jpg') no-repeat scroll center bottom / cover;*/
     padding-top: 26vh;
-    color: #434345;
-    background-color: #f5f6ff;
+    color: #ffffff;
+    background-color: #b3baff;
     margin-bottom: 100px;
 }
 
