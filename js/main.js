@@ -142,11 +142,11 @@
         });
     };
     // Call the functions
-    magnifPopup();
+    // magnifPopup();
     /* Preloader Js
     ===================*/
     $(window).on("load", function () {
-        $('.preloader').fadeOut(500);
+        // $('.preloader').fadeOut(500);
         /*WoW js Active
         =================*/
         new WOW().init({
